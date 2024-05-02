@@ -1,0 +1,6 @@
+[submodule "acmeair-container"]
+	path = acmeair-container
+	url = https://github.com/cjjdespres/acmeair-container
+[submodule "liberty-container"]
+	path = liberty-container
+	url = https://github.com/cjjdespres/liberty-container
