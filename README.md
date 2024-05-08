@@ -23,7 +23,7 @@ cd jdk-testing
 # Copy over prebuilt tomcat and CRIU
 mkdir liberty-container/extras/
 cp <PATH>/tomcat.tar.gz liberty-container/extras/
-cp <PATH>/CRIU.tar.gz liberty-container/extras/
+cp <PATH>/criu.tar.gz liberty-container/extras/
 ```
 
 ## Usage
